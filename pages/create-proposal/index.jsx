@@ -1,4 +1,4 @@
-import Head from "next/head";
+import { Head } from "next/head";
 import axios from "axios";
 
 import { useEffect, useState } from "react";
